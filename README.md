@@ -7,7 +7,7 @@ This is a simple yet interactive Tic-Tac-Toe game built using HTML, CSS, and Jav
 ✔ Dynamic gameplay with real-time updates
 ✔ Winner detection & highlight for better visibility
 
-#🛠️ Technologies Used:
+# 🛠️ Technologies Used:
 🔹 HTML for structure
 🔹 CSS for styling
 🔹 JavaScript for game logic and interactivity
